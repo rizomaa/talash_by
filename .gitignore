@@ -1,3 +1,47 @@
-.htaccess
-sites/default/*settings.php
-*settings.php
+sites/*/settings.php
+sites/*/services*.yml
+
+cache/
+sites/*/private
+sites/*/files-private
+
+/CHANGELOG.txt
+/COPYRIGHT.txt
+/INSTALL*.txt
+/LICENSE.txt
+/MAINTAINERS.txt
+/UPGRADE.txt
+/README.txt
+sites/all/README.txt
+sites/all/modules/README.txt
+sites/all/themes/README.txt
+
+# Thumbnails.
+._*
+
+# Files that might appear in the root of a volume.
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+
+ Windows image file caches.
+ehthumbs.db
+Thumbs.db
+
+# Folder config file.
+Desktop.ini
+
+# Recycle Bin used on file shares.
+$RECYCLE.BIN/
+
+# Tilde files.
+*~
+
+# KDE directory preferences.
+.directory
+
+# Linux trash folder which might appear on any partition or disk.
+.Trash-*
