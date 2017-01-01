@@ -3,6 +3,7 @@ sites/*/services*.yml
 
 cache/
 sites/*/private
+sites/*/php
 sites/*/files-private
 
 /CHANGELOG.txt
