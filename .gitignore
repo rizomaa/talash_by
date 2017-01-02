@@ -1,10 +1,13 @@
 sites/*/settings.php
 sites/*/services*.yml
-
+sites/default/backup
 sites/*/cache
 sites/*/private
 sites/*/php
 sites/*/files-private
+sites/default/files/css/*
+sites/default/files/php/*
+sites/default/files/js/*
 
 /CHANGELOG.txt
 /COPYRIGHT.txt
