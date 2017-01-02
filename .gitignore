@@ -1,7 +1,7 @@
 sites/*/settings.php
 sites/*/services*.yml
 
-cache/
+sites/*/cache
 sites/*/private
 sites/*/php
 sites/*/files-private
